@@ -160,8 +160,8 @@ This list contains Minecraft Java plugins server softwares.
 ### [☣️ Fusion](https://github.com/IPECTER/Fusion)
 - **Version:** 1.19.2-1.19.3
 - **Author:** IPECTER
-- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Mirai --> Suki --> Fusion
-- **Description:** A fork combining many different forks (Note: in development, unstable, developer doesn't recommend public usage).
+- **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Fusion
+- **Description:** A fork combining many different forks and fabric mods (Note: in development, unstable, developer doesn't recommend public usage).
 - **Plugins:** Bukkit, Spigot, Paper
 
 # ❌ Inactive Development
