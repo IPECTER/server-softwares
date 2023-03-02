@@ -81,7 +81,7 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🍂 Petal](https://github.com/Bloom-host/Petal)
-- **Version:** 1.19.2
+- **Version:** 1.19-1.19.2
 - **Author:** Bloom Host
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur --> Petal
 - **Description:** Performance-oriented fork of Purpur implementing multi-threaded and asynchronous improvements.
@@ -207,7 +207,7 @@ This list contains Minecraft Java plugins server softwares.
 
 ### [🚀 Jettpack](https://gitlab.com/Titaniumtown/JettPack)
 - **Alternative:** Pufferfish
-- **Version:** -
+- **Version:** 1.17-1.18.1
 - **Author:** Titaniumtown
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Jettpack
 - **Description:** A fork of Pufferfish with experimental patches (Note: unstable and not recommended by the author).
@@ -238,11 +238,11 @@ This list contains Minecraft Java plugins server softwares.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🅿️ Prismarine](https://github.com/PrismarineTeam/Prismarine)
-- **Alternative:** Purpur/Pufferfish
-- **Version:** 1.19.2
+- **Alternative:** Fusion/Purpur/Pufferfish
+- **Version:** 1.18.2-1.19.2
 - **Author:** PrismarineTeam
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish/Purpur/Jettpack/EmpireCraft/Patina/Mirai/Suki/Akarin/... --> Prismarine
-- **Description:** Fork of Paper that combines the patches from different forks (Note: not recommended and abandoned)
+- **Description:** Fork of Paper that combines the patches from different forks (Note: not recommended and abandoned, not exist repository)
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [⬛️ Yatopia](https://github.com/YatopiaMC/Yatopia)
